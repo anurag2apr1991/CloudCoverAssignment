@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"StackExchange apis testing","Get all badges","SUCCESS","2020-07-21T02:50:01.203+05:30","0.0","15.84"
+"StackExchange apis testing","Get all badges negative test scenario","SUCCESS","2020-07-21T02:50:20.785+05:30","0.0","11.99"
+"StackExchange apis testing","Get badges Name","SUCCESS","2020-07-21T02:50:32.943+05:30","0.0","4.65"
+"StackExchange apis testing","Get badges Name negative test scenario","SUCCESS","2020-07-21T02:50:37.697+05:30","0.0","10.68"
+"StackExchange apis testing","Get badges Recipients by Id","SUCCESS","2020-07-21T02:50:48.504+05:30","0.0","3.59"
+"StackExchange apis testing","Get badges Recipients by Id negative test scenario","SUCCESS","2020-07-21T02:50:52.209+05:30","0.0","10.64"

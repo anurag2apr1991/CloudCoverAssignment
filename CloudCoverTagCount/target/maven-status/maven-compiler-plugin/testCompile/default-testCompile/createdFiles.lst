@@ -1,0 +1,3 @@
+com\selenium\runner\Runner.class
+com\selenium\steps\AppSteps.class
+com\selenium\steps\GenericSteps.class
